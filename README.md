@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Paris Olympics</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: yellow; /* Set background color to yellow */
-            margin: 20px;
-        }
-        marquee {
-            font-size: 18px;
-            font-weight: bold;
-        }
-    </style>
+
 </head>
 <body>
     <h1>Paris Olympics</h1>
